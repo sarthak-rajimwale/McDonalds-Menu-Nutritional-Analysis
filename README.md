@@ -21,9 +21,6 @@ The project utilized various tools and techniques for data mining, cleaning, ana
 3. **Data Visualization**:
    - **PowerPoint**: Used to create visually appealing slides that summarized the key findings. Charts, graphs, and tables were employed to highlight important trends and correlations in a user-friendly format.
 
-#### Data Sources
-The data for this project was sourced from Kaggle, a reputable platform for data science and machine learning datasets. This dataset provided detailed nutritional information about McDonald's menu items, forming the basis for the analysis.
-
 #### Project Structure
 The project is structured into several key components:
 
